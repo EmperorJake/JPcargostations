@@ -1,7 +1,7 @@
 // --------------------- crane --------------------- //
 
 -1 * 0	 00 04 \b5 \b1 TILE_HARBOUR_CRANES_1
-  08 "CHPT" // Class ID - groups stations in menu
+  08 "JKCS" // Class ID - groups stations in menu
   1A 02 // 2 tiles
     //Basic layout
     42
@@ -50,7 +50,7 @@
 // --------------------- crane --------------------- //
 
 -1 * 0	 00 04 \b5 \b1 TILE_HARBOUR_CRANES_2
-  08 "CHPT" // Class ID - groups stations in menu
+  08 "JKCS" // Class ID - groups stations in menu
   1A 02 // 2 tiles
     //Basic layout
     42
@@ -99,7 +99,7 @@
 // --------------------- crane rails --------------------- //
 
 -1 * 0	 00 04 \b5 \b1 TILE_HARBOUR_CRANE_RAILS_1
-  08 "CHPT" // Class ID - groups stations in menu
+  08 "JKCS" // Class ID - groups stations in menu
   1A 02 // 2 tiles
     //Basic layout
     41
@@ -140,7 +140,7 @@
 // --------------------- crane --------------------- //
 
 -1 * 0	 00 04 \b4 \b1 TILE_HARBOUR_CRANES_3
-  08 "CHPT" // Class ID - groups stations in menu
+  08 "JKCS" // Class ID - groups stations in menu
   09 02 // 2 tiles
     \dx000003F4 // custom ground sprite
     00 00 80 // x/y/z offset
@@ -207,7 +207,7 @@
 // --------------------- crane --------------------- //
 
 -1 * 0	 00 04 \b4 \b1 TILE_HARBOUR_CRANES_4
-  08 "CHPT" // Class ID - groups stations in menu
+  08 "JKCS" // Class ID - groups stations in menu
   09 02 // 2 tiles
     \dx000003F4 // custom ground sprite
     00 00 80 // x/y/z offset
@@ -274,7 +274,7 @@
 // --------------------- crane rails --------------------- //
 
 -1 * 0	 00 04 \b4 \b1 TILE_HARBOUR_CRANE_RAILS_2
-  08 "CHPT" // Class ID - groups stations in menu
+  08 "JKCS" // Class ID - groups stations in menu
   1A 02 // 2 tiles
     //Basic layout
     43
